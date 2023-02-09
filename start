@@ -1,1 +1,2 @@
+pip install -U pip && pip install -U -r requirements.txt
 python3 -m YukkiMusic
