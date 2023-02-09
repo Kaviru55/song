@@ -1,0 +1,545 @@
+[02-Feb-23 14:07:43 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[02-Feb-23 14:07:43 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[02-Feb-23 14:07:43 - INFO] - YukkiMusic.misc - Database Initialized.
+[02-Feb-23 14:07:44 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[02-Feb-23 14:07:44 - INFO] - YukkiMusic.core.bot - Starting Bot
+[02-Feb-23 14:07:47 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[02-Feb-23 14:07:52 - ERROR] - YukkiMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
+[02-Feb-23 14:09:32 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[02-Feb-23 14:09:32 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[02-Feb-23 14:09:32 - INFO] - YukkiMusic.misc - Database Initialized.
+[02-Feb-23 14:09:32 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[02-Feb-23 14:09:32 - INFO] - YukkiMusic.core.bot - Starting Bot
+[02-Feb-23 14:09:33 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[02-Feb-23 14:09:34 - ERROR] - YukkiMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
+[02-Feb-23 14:10:05 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[02-Feb-23 14:10:05 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[02-Feb-23 14:10:05 - INFO] - YukkiMusic.misc - Database Initialized.
+[02-Feb-23 14:10:05 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[02-Feb-23 14:10:05 - INFO] - YukkiMusic.core.bot - Starting Bot
+[02-Feb-23 14:10:06 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[02-Feb-23 14:10:06 - ERROR] - YukkiMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
+[02-Feb-23 14:12:40 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[02-Feb-23 14:12:40 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[02-Feb-23 14:12:40 - INFO] - YukkiMusic.misc - Database Initialized.
+[02-Feb-23 14:12:41 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[02-Feb-23 14:12:41 - INFO] - YukkiMusic.core.bot - Starting Bot
+[02-Feb-23 14:12:42 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[02-Feb-23 14:12:42 - ERROR] - YukkiMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
+[03-Feb-23 05:04:43 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:04:43 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:04:43 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:04:43 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:04:43 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:04:47 - WARNING] - YukkiMusic - No Spotify Vars defined. Your bot won't be able to play spotify queries.
+[03-Feb-23 05:04:47 - ERROR] - YukkiMusic.core.bot - Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!
+[03-Feb-23 05:07:08 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:07:08 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:07:08 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:07:08 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:07:08 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:07:10 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 05:07:10 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:07:10 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:07:10 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:07:10 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:07:11 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:07:35 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:07:35 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:08:04 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:08:04 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:08:04 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:08:04 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:08:04 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:08:06 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 05:08:06 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:08:06 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:08:07 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:08:07 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:08:08 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:08:52 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:08:53 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:09:59 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:09:59 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:09:59 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:09:59 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:09:59 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:10:05 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:10:05 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:10:05 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:10:06 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:10:06 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:10:06 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:10:48 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:10:49 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:11:14 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:11:14 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:11:14 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:11:14 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:11:14 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:11:16 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:11:16 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:11:16 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:11:17 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:11:17 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:11:17 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:12:11 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:12:11 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:12:17 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:12:17 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:12:17 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:12:17 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:12:17 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:12:19 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:12:19 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:12:19 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:12:19 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:12:19 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:12:19 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:12:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:12:45 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:13:29 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:13:29 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:13:29 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:13:29 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:13:29 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:13:32 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:13:32 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:13:32 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:13:32 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:13:32 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:13:33 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:13:58 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:13:58 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:16:16 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:16:16 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:16:16 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:16:16 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:16:16 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:16:19 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:16:19 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:16:19 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:16:19 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:16:19 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:16:19 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:18:18 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:18:19 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 05:18:22 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:18:22 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:18:22 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:18:22 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:18:22 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:18:24 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:18:39 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 05:18:39 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 05:18:39 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 05:18:39 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 05:18:39 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 05:18:42 - INFO] - YukkiMusic.core.bot - MusicBot Started as 🎸 SL Official Song Bot 🎸
+[03-Feb-23 05:18:42 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 05:18:42 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 05:18:42 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 05:18:42 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 05:18:43 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 05:28:09 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 05:28:10 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 06:21:34 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:21:34 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:21:34 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:21:34 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:21:34 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:21:43 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:21:43 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 06:21:43 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 06:21:44 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 06:21:44 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 06:21:45 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 06:21:54 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 06:21:55 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 06:24:26 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:24:26 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:24:26 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:24:26 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:24:26 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:24:28 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:24:28 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 06:24:28 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 06:24:28 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 06:24:28 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 06:24:29 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 06:24:31 - ERROR] - pyrogram.dispatcher - 'user'
+Traceback (most recent call last):
+  File "/home/kavirunethsara1/.local/lib/python3.9/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/kavirunethsara1/YukkiMusicBot/YukkiMusic/utils/decorators/language.py", line 64, in wrapper
+    return await mystic(_, message, language)
+  File "/home/kavirunethsara1/YukkiMusicBot/YukkiMusic/plugins/bot/start.py", line 212, in start_comm
+    _["start_2"].format(config.MUSIC_BOT_NAME),
+KeyError: 'user'
+[03-Feb-23 06:24:36 - ERROR] - pyrogram.dispatcher - 'user'
+Traceback (most recent call last):
+  File "/home/kavirunethsara1/.local/lib/python3.9/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/kavirunethsara1/YukkiMusicBot/YukkiMusic/utils/decorators/language.py", line 64, in wrapper
+    return await mystic(_, message, language)
+  File "/home/kavirunethsara1/YukkiMusicBot/YukkiMusic/plugins/bot/start.py", line 212, in start_comm
+    _["start_2"].format(config.MUSIC_BOT_NAME),
+KeyError: 'user'
+[03-Feb-23 06:24:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 06:24:42 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 06:49:54 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:49:54 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:49:54 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:49:54 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:49:54 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:49:57 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:50:20 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:50:20 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:50:20 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:50:20 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:50:20 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:50:22 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:50:44 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:50:44 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:50:44 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:50:44 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:50:44 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:50:46 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:51:27 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:51:27 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:51:27 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:51:27 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:51:27 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:51:30 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:52:25 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:52:25 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:52:25 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:52:25 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:52:25 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:52:27 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 06:53:13 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 06:53:13 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 06:53:13 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 06:53:13 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 06:53:13 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 06:53:16 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:06:53 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:06:53 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:06:53 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:06:53 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:06:53 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:06:55 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:07:21 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:07:21 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:07:21 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:07:21 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:07:21 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:07:24 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:07:24 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:07:24 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:07:24 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:07:24 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:07:26 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:07:51 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:07:52 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:11:37 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:11:37 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:11:37 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:11:37 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:11:37 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:11:39 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:12:37 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:12:37 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:12:37 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:12:37 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:12:37 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:12:39 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:12:56 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:12:57 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:12:57 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:12:57 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:12:57 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:12:59 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:13:31 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:13:31 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:13:31 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:13:31 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:13:31 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:13:33 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:13:52 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:13:52 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:13:52 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:13:52 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:13:52 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:13:55 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:14:16 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:14:16 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:14:16 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:14:17 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:14:17 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:14:20 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:14:20 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:14:20 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:14:20 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:14:20 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:14:21 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:14:22 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:14:22 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:15:00 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:15:00 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:15:00 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:15:01 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:15:01 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:15:03 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:15:03 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:15:03 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:15:04 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:15:04 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:15:04 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:15:06 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:15:07 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:15:51 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:15:51 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:15:51 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:15:51 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:15:51 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:15:54 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:15:55 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:15:55 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:15:55 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:15:55 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:15:57 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:16:03 - ERROR] - pyrogram.dispatcher - name 'enums' is not defined
+Traceback (most recent call last):
+  File "/home/kavirunethsara1/.local/lib/python3.9/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/kavirunethsara1/YukkiMusicBot/YukkiMusic/utils/decorators/language.py", line 64, in wrapper
+    return await mystic(_, message, language)
+  File "/home/kavirunethsara1/YukkiMusicBot/YukkiMusic/plugins/bot/start.py", line 217, in start_comm
+    parse_mode=enums.ParseMode.HTML,
+NameError: name 'enums' is not defined
+[03-Feb-23 07:16:14 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:16:15 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:16:49 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:16:49 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:16:49 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:16:49 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:16:49 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:16:52 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:20:32 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:20:32 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:20:32 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:20:32 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:20:32 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:21:13 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:21:13 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:21:13 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:21:13 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:21:13 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:21:46 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:21:46 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:21:46 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:21:46 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:21:46 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:21:48 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:22:35 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:22:35 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:22:35 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:22:35 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:22:35 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:24:26 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:24:26 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:24:26 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:24:26 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:24:26 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:24:30 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:24:30 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:24:30 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:24:30 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:24:30 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:24:31 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:25:16 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:25:17 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:25:20 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:25:20 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:25:20 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:25:21 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:25:21 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:25:22 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:25:22 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:25:22 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:25:23 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:25:23 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:25:23 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:26:12 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:26:13 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:26:17 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:26:17 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:26:17 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:26:17 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:26:17 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:26:19 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:26:19 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:26:19 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:26:20 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:26:20 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:26:20 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:30:04 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:30:04 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:30:13 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:30:13 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:30:13 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:30:13 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:30:13 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:30:39 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:30:39 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:30:39 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:30:39 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:30:39 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:30:53 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:30:53 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:30:53 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:30:53 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:30:53 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:31:17 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:31:17 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:31:17 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:31:18 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:31:18 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:31:20 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:31:20 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:31:20 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:31:20 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:31:20 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:31:20 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:31:21 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:31:22 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:31:41 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:31:41 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:31:41 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:31:41 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:31:41 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:31:44 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:31:44 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:31:44 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:31:44 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:31:44 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:31:44 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:33:13 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:33:13 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:33:13 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:33:13 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:33:13 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:33:16 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:33:16 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:33:16 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:33:16 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:33:16 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:33:16 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:34:10 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:34:11 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:34:14 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:34:14 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:34:14 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:34:15 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:34:15 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:34:17 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:34:17 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:34:17 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:34:17 - INFO] - YukkiMusic.core.userbot - Assistant Started as 𝗦𝗟 𝗢𝗳𝗳𝗶𝗰𝗶𝗮
+[03-Feb-23 07:34:17 - INFO] - YukkiMusic.core.call - Starting PyTgCalls Client
+
+[03-Feb-23 07:34:18 - INFO] - YukkiMusic - Yukki Music Bot Started Successfully
+[03-Feb-23 07:36:44 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[03-Feb-23 07:36:44 - INFO] - YukkiMusic - Stopping Yukki Music Bot! GoodBye
+[03-Feb-23 07:36:47 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:36:47 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:36:47 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:36:49 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:36:49 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:36:59 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:36:59 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:36:59 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:36:59 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:36:59 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:37:25 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:37:25 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:37:25 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:37:25 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:37:25 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:38:34 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:38:34 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:38:34 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:38:34 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:38:34 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:38:36 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:38:36 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:38:36 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:38:50 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:38:50 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:38:50 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:38:50 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:38:50 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:38:56 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:38:56 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:38:56 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:39:29 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:39:29 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:39:29 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:39:30 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:39:30 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:39:36 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:39:36 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:39:36 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:40:21 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:40:21 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:40:21 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:40:21 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:40:21 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:40:24 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:40:24 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:40:24 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:41:11 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:41:11 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:41:11 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:41:11 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:41:11 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:41:18 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:41:18 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:41:18 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:41:49 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:41:49 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:41:49 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:41:50 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:41:50 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:41:56 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:41:56 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:41:56 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
+[03-Feb-23 07:43:44 - INFO] - YukkiMusic.core.dir - Directories Updated.
+[03-Feb-23 07:43:44 - INFO] - YukkiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[03-Feb-23 07:43:44 - INFO] - YukkiMusic.misc - Database Initialized.
+[03-Feb-23 07:43:44 - INFO] - YukkiMusic.misc - Sudoers Loaded.
+[03-Feb-23 07:43:44 - INFO] - YukkiMusic.core.bot - Starting Bot
+[03-Feb-23 07:43:50 - INFO] - YukkiMusic.core.bot - MusicBot Started as Miusic Bot
+[03-Feb-23 07:43:50 - INFO] - Yukkimusic.plugins - Successfully Imported Modules 
+[03-Feb-23 07:43:50 - INFO] - YukkiMusic.core.userbot - Starting Assistant Clients
